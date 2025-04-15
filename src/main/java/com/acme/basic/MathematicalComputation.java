@@ -10,5 +10,10 @@ public class MathematicalComputation.java {
     System.out.println("Subtraction is : " a-b);
     return a-b;
   }
+
+    int multiply(int a , int b) {
+    System.out.println("multiplication is : " a*b);
+    return a*b;
+  }
   
 }
